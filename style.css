@@ -1,3 +1,8 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
 body {
     background-image:url(splatter2.jpg);
     margin: 0;
@@ -13,7 +18,7 @@ body {
         margin-top: 20%;
         margin-right: auto;
         margin-left: auto;
-        font: 23px 'Creepster', sans-serif;
+        font: 23px 'Creepster', 'Helvetica', sans-serif;
         animation: 4s hinge 3s forwards;
         color:red;
         text-shadow:
@@ -26,29 +31,49 @@ a:visited{
     color:red;
 }
 
+.button-holder {
+        position: absolute;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+}
+}
 button {
+        background:black;
+        color: red;
         text-align: center;
+        font: bold 40px 'Creepster', 'Helvetica', sans-serif;
+        padding: 16px 25px;
+        margin: 15px auto;
+        border: none;
+        cursor: crosshair;
+        width: 100%;
+        border-radius: 8px;
+        display: block;
+        animation: 5s pulse infinite;
+        /*text-align: center;
         margin-top: 30%;
         margin-right: auto;
         margin-left: auto;
-        font: bold 40px 'Creepster', sans-serif;
-        background-color: transparent;
+        font: bold 40px 'Creepster', Helvetica, sans-serif;
+        background-color: white;
+        color: red
       /* width: 200px;
         height: 100px;
-        /*border-radius: 100px / 50px;
-        border: none;*/
+        border-radius: 100px / 50px;
+        border: none;
         color:red;
         /*padding: 15px 32px;
         text-align: center;
         position: absolute;
         top: 55%;
         left: 50%;*/
-        /*transform: translate(-50%, -50%);*/
-        display: inline-block;
+        /*transform: translate(-50%, -50%);
+        display: block;
         margin: 4px 2px;
         cursor: crosshair;
-        animation: 5s pulse infinite;
-  }
+        animation: 5s pulse infinite;*/
+}
 
 @keyframes pulse {
     from {
