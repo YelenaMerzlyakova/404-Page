@@ -2,7 +2,7 @@ body {
     
     margin: 0;
 }
-
+@import url(https://fonts.googleapis.com/css?family=Denk+One);
 .image {
         background-image:url(splatter2.jpg);
         background-color: black;
@@ -18,7 +18,7 @@ body {
         top: 38%;
         left: 50%;
         transform: translate(-50%, -50%);
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Creepster', sans-serif;
         font-size: 23px;
         animation-duration: 4s;
         animation-name: hinge;
@@ -48,9 +48,8 @@ button {
     top: 55%;
     left: 40%;
     transform: translate(-50%, -50%);
-    font-family: Arial, Helvetica, sans-serif;
     display: inline-block;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Creepster', sans-serif;
     font-weight:bold;
     font-size: 40px;
     margin: 4px 2px;
