@@ -6,11 +6,12 @@ html, body {
 
 body {
     background-image:url(splatter2.jpg);
+    background-size: cover;
 }
 @import url(https://fonts.googleapis.com/css?family=Denk+One);
 
 .container {
-  height:100%;        
+  height:200%;        
 }
 
 .text {
