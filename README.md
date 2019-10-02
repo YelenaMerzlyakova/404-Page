@@ -2,6 +2,8 @@
 
 # **[Check it out!](https://yelenamerzlyakova.github.io/404-Page2/)**
 
+Uh-oh! Scary animations! 
+
 ## Objectives
 
 - Improve the semantic HTML
