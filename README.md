@@ -2,7 +2,7 @@
 
 # **[Check it out!](https://yelenamerzlyakova.github.io/404-Page2/)**
 
-Uh-oh! Scary animations! 
+:ghost: Uh-oh! Scary animations! :ghost:
 
 ## Objectives
 
