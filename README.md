@@ -10,7 +10,7 @@
 
 ## Result
 
-
+![print screen](https://github.com/YelenaMerzlyakova/ColorGame/blob/master/revive.png)
 
 
 ## Resources used
