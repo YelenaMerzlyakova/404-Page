@@ -1,6 +1,6 @@
 # 404-Page2
 
-#**[Check it out!]**(https://yelenamerzlyakova.github.io/404-Page2/)
+# **[Check it out!]**(https://yelenamerzlyakova.github.io/404-Page2/)
 
 ## Objectives
 
